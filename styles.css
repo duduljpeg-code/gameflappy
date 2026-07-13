@@ -24,7 +24,7 @@
         }
         
         #gameCanvas {
-            background: #87CEEB;
+            background: #d80398;
             border: 3px solid #333;
             border-radius: 10px;
             box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
@@ -73,7 +73,7 @@
         }
         
         .btn:hover {
-            background: #FFA500;
+            background: #f01fb1;
             transform: scale(1.05);
         }
         
