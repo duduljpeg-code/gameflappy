@@ -10,7 +10,7 @@
             justify-content: center;
             align-items: center;
             min-height: 100vh;
-            background: linear-gradient(to bottom, #87CEEB, #1E90FF);
+            background: linear-gradient(to bottom, #fc10a1, #f396cc);
             overflow: hidden;
             touch-action: none;
             user-select: none;
@@ -58,7 +58,7 @@
         }
         
         .btn {
-            background: #FFD700;
+            background: #ff00b3;
             color: #333;
             border: none;
             padding: 15px 30px;
@@ -85,13 +85,13 @@
             font-size: 2.5em;
             margin-bottom: 20px;
             text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-            color: #FFD700;
+            color: #f8f8f8;
         }
         
         h2 {
             font-size: 1.8em;
             margin-bottom: 10px;
-            color: #FFD700;
+            color: #ffffff;
         }
         
         p {
@@ -115,7 +115,7 @@
             top: 60px;
             right: 20px;
             font-size: 1.2em;
-            color: #FFD700;
+            color: #de65f7;
             text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
         }
         
