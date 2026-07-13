@@ -268,7 +268,7 @@
 
             render() {
                 // Clear canvas
-                this.ctx.fillStyle = '#87CEEB';
+                this.ctx.fillStyle = '#ff49b9';
                 this.ctx.fillRect(0, 0, this.canvas.width, this.canvas.height);
 
                 // Draw background elements
@@ -303,7 +303,7 @@
                 this.ctx.fillStyle = '#8B4513';
                 this.ctx.fillRect(0, this.canvas.height - 20, this.canvas.width, 20);
                 
-                this.ctx.fillStyle = '#90EE90';
+                this.ctx.fillStyle = '#ec25d2';
                 this.ctx.fillRect(0, this.canvas.height - 20, this.canvas.width, 5);
             }
 
@@ -315,7 +315,7 @@
                     this.ctx.translate(entity.x + entity.width / 2, entity.y + entity.height / 2);
                     this.ctx.rotate(entity.rotation);
                     
-                    this.ctx.fillStyle = '#FFD700';
+                    this.ctx.fillStyle = '#FFC5D3';
                     this.ctx.fillRect(-entity.width / 2, -entity.height / 2, entity.width, entity.height);
                     
                     // Draw bird eye
